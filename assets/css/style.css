@@ -1,0 +1,79 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+	background-image: url("../images/concrete-texture.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+p:last-child {
+	margin-bottom: 0;
+	}
+
+h1, h2, h3 {
+	font-family: 'Georgia', Times, Times New Roman, serrif;
+	font-weight: 700;
+	color: #4aaaa5;
+}
+
+h1 {
+	font-size: 30px;
+	line-height: 49px;
+	border-bottom: 3px solid #ddd;
+	padding-bottom: 20px;
+}
+
+
+h2, h3 {
+	font-size: 22px;
+}
+
+.navbar {
+	padding: 5px 11%;
+	max-width: ;
+
+}
+#logo {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding: 30px 30px 50px 30px;
+	font-size: 30px;
+	font-weight: 700;
+	font-family: 'Georgia', Times, Times New Roman, serrif;
+}
+
+.label {
+	position: absolute;
+	bottom: 0;
+	z-index: 2500;
+	background-color: #4aaaa5;
+	width: 97%;
+	text-align: center;
+	color: white;
+	font-size: x-large;
+}
+
+.footer {
+	background-color: #666;
+	color: #fff;
+	padding: px 0;
+	clear: both;
+	border-top: 8px solid #4aaaa5;
+	color: #ccc;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+
+
+
